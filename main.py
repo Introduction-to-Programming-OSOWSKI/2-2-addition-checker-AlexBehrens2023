@@ -1,8 +1,8 @@
 #WRITE YOUR CODE HERE
-def addChecker(x, y, z):
+def addCheck(x, y, z):
     if x + y == z :
         return True
     else:
         return False
 
-print(addChecker(1, 2, 3))
+print(addCheck(2, 2, 4))
